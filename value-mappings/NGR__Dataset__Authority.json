@@ -65,8 +65,6 @@
   },
   {
     "name": "Atlas Natuurlijk Kapitaal",
-    "description": "<p>http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu</p>\r\n",
-    "uri": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
   },
   {

@@ -1,14 +1,102 @@
 [
   {
+    "name": "Weekly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/WEEKLY"
+  },
+  {
+    "name": "Monthly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/MONTHLY"
+  },
+  {
+    "name": "Twicemonthly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Quarterly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  {
+    "name": "Threemonthly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  {
+    "name": "Threetimesayear",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Twiceyearly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Yearly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
+  },
+  {
+    "name": "Twoyearly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/BIENNIAL"
+  },
+  {
+    "name": "Threeyearly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/TRIENNIAL"
+  },
+  {
+    "name": "Fouryearly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Fiveyearly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Onceonly",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/NEVER"
+  },
+  {
     "name": "Discontinued",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/NEVER"
   },
   {
-    "name": "Onregelmatig",
+    "name": "Irregularly",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/IRREG"
   },
   {
+    "name": "Perweek",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/WEEKLY"
+  },
+  {
+    "name": "Pertweeweken",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/BIWEEKLY"
+  },
+  {
+    "name": "Permaand",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/MONTHLY"
+  },
+  {
+    "name": "Tweemaalpermaand",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Perkwartaal",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  {
+    "name": "Perdriemaanden",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  {
+    "name": "Viermaalperjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  {
+    "name": "Driemaalperjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
     "name": "Perhalfjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Tweemaalperjaar",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
   {
@@ -16,27 +104,39 @@
     "target_value": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
   },
   {
-    "name": "Perkwartaal",
-    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
-  },
-  {
-    "name": "Permaand",
-    "target_value": "http://publications.europa.eu/resource/authority/frequency/MONTHLY"
-  },
-  {
     "name": "Pertweejaar",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/BIENNIAL"
+  },
+  {
+    "name": "Perdriejaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/TRIENNIAL"
   },
   {
     "name": "Pervierjaar",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
   {
+    "name": "Pervijfjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Eenmalig",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/NEVER"
+  },
+  {
     "name": "Stopgezet",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/NEVER"
   },
   {
-    "name": "Viermaalperjaar",
-    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+    "name": "Onregelmatig",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/IRREG"
+  },
+  {
+    "name": "Tijdelijkstopgezet",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/IRREG"
+  },
+  {
+    "name": "Jährlich",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
   }
 ]
