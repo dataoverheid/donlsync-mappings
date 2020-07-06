@@ -1,0 +1,10 @@
+[
+  {
+    "name": "API",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/JSON"
+  },
+  {
+    "name": "Feed",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/ATOM"
+  }
+]

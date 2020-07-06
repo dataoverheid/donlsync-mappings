@@ -1,0 +1,16 @@
+{
+  "description": "Er is geen beschrijving van deze dataset beschikbaar.",
+  "datasetStatus": "http://data.overheid.nl/status/beschikbaar",
+  "sourceCatalog": "https://opendata.rdw.nl",
+  "contact_point_webpage": "https://www.rdw.nl/over-rdw/dienstverlening/open-data",
+  "metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
+  "language": "http://publications.europa.eu/resource/authority/language/NLD",
+  "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+  "authority": "http://standaarden.overheid.nl/owms/terms/RDW_(Dienst_Wegverkeer)",
+  "publisher": "http://standaarden.overheid.nl/owms/terms/RDW_(Dienst_Wegverkeer)",
+  "theme": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)",
+  "resource.description": "Er is geen beschrijving van deze distributie beschikbaar.",
+  "resource.metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
+  "resource.language": "http://publications.europa.eu/resource/authority/language/NLD",
+  "resource.license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl"
+}

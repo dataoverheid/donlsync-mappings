@@ -1,0 +1,46 @@
+[
+  {
+    "name": "application/json",
+    "target_value": "https://www.iana.org/assignments/media-types/application/json"
+  },
+  {
+    "name": "CSV",
+    "target_value": "https://www.iana.org/assignments/media-types/text/csv"
+  },
+  {
+    "name": "GML",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "JSON",
+    "target_value": "https://www.iana.org/assignments/media-types/application/json"
+  },
+  {
+    "name": "OGC:WFS",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "OGC:WMS",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "SDE Feature Class",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "website",
+    "target_value": "https://www.iana.org/assignments/media-types/text/html"
+  },
+  {
+    "name": "WFS",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "WMS",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "ZIP-SHAPE",
+    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
+  }
+]

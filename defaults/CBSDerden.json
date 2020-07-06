@@ -1,0 +1,11 @@
+{
+  "license": "http://creativecommons.org/licenses/by/4.0/deed.nl",
+  "publisher": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek",
+  "theme": "http://standaarden.overheid.nl/owms/terms/Economie",
+  "datasetStatus": "http://data.overheid.nl/status/beschikbaar",
+  "sourceCatalog": "https://dataderden.cbs.nl/ODataCatalog/",
+  "nationalCoverage": "true",
+  "contact_point_name": "Centraal Bureau voor de Statistiek",
+  "contact_point_email": "infoservice@cbs.nl",
+  "resource.license": "http://creativecommons.org/licenses/by/4.0/deed.nl"
+}

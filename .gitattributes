@@ -1,0 +1,10 @@
+* text=auto
+eol=lf
+
+/blacklists/.gitkeep        export-ignore
+/defaults/.gitkeep          export-ignore
+/value-mappings/.gitkeep    export-ignore
+/whitelists/.gitkeep        export-ignore
+/.gitattributes             export-ignore
+/.gitignore                 export-ignore
+/.editorconfig              export-ignore

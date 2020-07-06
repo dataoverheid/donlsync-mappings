@@ -1,0 +1,30 @@
+[
+  {
+    "name": "application/json",
+    "target_value": "https://www.iana.org/assignments/media-types/application/json"
+  },
+  {
+    "name": "application/rdf+xml",
+    "target_value": "https://www.iana.org/assignments/media-types/application/rdf+xml"
+  },
+  {
+    "name": "application/vnd.google-earth.kml+xml",
+    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"
+  },
+  {
+    "name": "application/vnd.google-earth.kmz",
+    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz"
+  },
+  {
+    "name": "application/xml",
+    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+  },
+  {
+    "name": "application/zip",
+    "target_value": "https://www.iana.org/assignments/media-types/application/zip"
+  },
+  {
+    "name": "text/csv",
+    "target_value": "https://www.iana.org/assignments/media-types/text/csv"
+  }
+]

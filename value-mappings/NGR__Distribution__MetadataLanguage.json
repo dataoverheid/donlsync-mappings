@@ -1,0 +1,14 @@
+[
+  {
+    "name": "dut",
+    "target_value": "http://publications.europa.eu/resource/authority/language/NLD"
+  },
+  {
+    "name": "en",
+    "target_value": "http://publications.europa.eu/resource/authority/language/ENG"
+  },
+  {
+    "name": "eng",
+    "target_value": "http://publications.europa.eu/resource/authority/language/ENG"
+  }
+]

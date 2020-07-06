@@ -1,0 +1,30 @@
+[
+  {
+    "name": "application/json",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/JSON"
+  },
+  {
+    "name": "application/rdf+xml",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/RDF_XML"
+  },
+  {
+    "name": "application/vnd.google-earth.kml+xml",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/KML"
+  },
+  {
+    "name": "application/vnd.google-earth.kmz",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/KMZ"
+  },
+  {
+    "name": "application/xml",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/XML"
+  },
+  {
+    "name": "application/zip",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+  },
+  {
+    "name": "text/csv",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/CSV"
+  }
+]

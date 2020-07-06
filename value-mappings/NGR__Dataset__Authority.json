@@ -1,0 +1,1360 @@
+[
+  {
+    "name": "Aerodata International Surveys",
+    "target_value": "http://data.overheid.nl/organisatie/aerodata-international-surveys"
+  },
+  {
+    "name": "Agentschap NL",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Agentschap_NL"
+  },
+  {
+    "name": "AgriFood Capital",
+    "target_value": "http://data.overheid.nl/organisatie/agrifood"
+  },
+  {
+    "name": "Alterra",
+    "target_value": "http://data.overheid.nl/organisatie/alterra"
+  },
+  {
+    "name": "Alterra Wageningen UR",
+    "target_value": "http://data.overheid.nl/organisatie/alterra"
+  },
+  {
+    "name": "Alterra, Wageningen UR",
+    "target_value": "http://data.overheid.nl/organisatie/alterra"
+  },
+  {
+    "name": "Amersfoort",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amersfoort_(gemeente)"
+  },
+  {
+    "name": "Amsterdam",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amsterdam"
+  },
+  {
+    "name": "Amsterdam - Centrum",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amsterdam"
+  },
+  {
+    "name": "Amsterdam - Nieuw-West",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amsterdam"
+  },
+  {
+    "name": "Andes B.V.",
+    "target_value": "http://data.overheid.nl/organisatie/andes"
+  },
+  {
+    "name": "Antwoord voor Bedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "ARCADIS Nederland B.V.",
+    "target_value": "http://data.overheid.nl/organisatie/arcadis"
+  },
+  {
+    "name": "Archief Eemland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amersfoort_(gemeente)"
+  },
+  {
+    "name": "Arnhem",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arnhem_(gemeente)"
+  },
+  {
+    "name": "Atlas Leefomgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
+    "name": "Atlas Natuurlijk Kapitaal",
+    "description": "<p>http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu</p>\r\n",
+    "uri": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
+    "name": "BAR-organisatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/BAR-organisatie"
+  },
+  {
+    "name": "BAR-Organisatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/BAR-organisatie"
+  },
+  {
+    "name": "Beheer PDOK",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pdok"
+  },
+  {
+    "name": "BIJ12",
+    "target_value": "http://data.overheid.nl/organisatie/bij12"
+  },
+  {
+    "name": "Bridgis Geoservices BV",
+    "target_value": "http://data.overheid.nl/organisatie/bridgis"
+  },
+  {
+    "name": "Bureau Bedrijfsinformatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Centraal Bureau voor de Statistiek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
+  },
+  {
+    "name": "Centre for Estuarine and Marine Ecology (NIOO-CEME)",
+    "target_value": "http://data.overheid.nl/organisatie/niooceme"
+  },
+  {
+    "name": "Centrum voor Geo-informatie Wageningen (Alterra)",
+    "target_value": "http://data.overheid.nl/organisatie/alterra"
+  },
+  {
+    "name": "CIBG",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/cibg"
+  },
+  {
+    "name": "College voor de toelating van gewasbeschermingsmiddelen en biociden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/CTGB"
+  },
+  {
+    "name": "College voor Zorgverzekeringen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/College_voor_Zorgverzekeringen"
+  },
+  {
+    "name": "DataLand",
+    "target_value": "http://data.overheid.nl/organisatie/dataland"
+  },
+  {
+    "name": "Deltares",
+    "target_value": "http://data.overheid.nl/organisatie/deltares"
+  },
+  {
+    "name": "Den Haag",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage"
+  },
+  {
+    "name": "DGOBR - FHIR - Informatie Management",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Dienst Centraal Milieubeheer Rijnmond",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/DCMR_Milieudienst_Rijnmond"
+  },
+  {
+    "name": "Dienst der Hydrografie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Defensie"
+  },
+  {
+    "name": "Dienst Infrastructuur Verkeer en Vervoer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amsterdam"
+  },
+  {
+    "name": "Dienst Landelijk Gebied",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_Landelijk_Gebied"
+  },
+  {
+    "name": "Dienst Landelijk Gebied Limburg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_Landelijk_Gebied"
+  },
+  {
+    "name": "Dienst Milieu en Bouwtoezicht, Gemeente Amsterdam",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amsterdam"
+  },
+  {
+    "name": "Dienst Uitvoering Onderwijs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_Uitvoering_Onderwijs"
+  },
+  {
+    "name": "Dienst van Het Kadaster en Openbare Registers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Directie Openbaar Vervoer en Spoor, DGB, Ministerie van Infrastructuur en Milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "DUO",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_Uitvoering_Onderwijs"
+  },
+  {
+    "name": "EEA- European Environment Agency",
+    "target_value": "http://data.overheid.nl/organisatie/eea"
+  },
+  {
+    "name": "Enschede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)"
+  },
+  {
+    "name": "Erfgoed Leiden en Omstreken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Leiden_(gemeente)"
+  },
+  {
+    "name": "ETIL",
+    "target_value": "http://data.overheid.nl/organisatie/etil"
+  },
+  {
+    "name": "EYE Film Instituut Nederland",
+    "target_value": "http://data.overheid.nl/organisatie/eye"
+  },
+  {
+    "name": "Fred Hagman",
+    "target_value": "http://data.overheid.nl/organisatie/aerodata-international-surveys"
+  },
+  {
+    "name": "Fugro GeoServices B.V.",
+    "target_value": "http://data.overheid.nl/organisatie/fugro-geoservices-bv"
+  },
+  {
+    "name": "Functioneel beheer ArcGIS",
+    "target_value": "http://data.overheid.nl/organisatie/arcgis"
+  },
+  {
+    "name": "Functioneel beheer ArcGIS / Erfgoed en welstand",
+    "target_value": "http://data.overheid.nl/organisatie/arcgis"
+  },
+  {
+    "name": "Functioneel beheer ArcGIS / Ruimtelijk juridische zaken",
+    "target_value": "http://data.overheid.nl/organisatie/arcgis"
+  },
+  {
+    "name": "Gemeente Alkmaar",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Alkmaar_(gemeente)"
+  },
+  {
+    "name": "gemeente Amersfoort",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amersfoort_(gemeente)"
+  },
+  {
+    "name": "gemeente Amstelveen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amstelveen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Amsterdam - Dienst Infrastructuur Verkeer en Vervoer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Amsterdam"
+  },
+  {
+    "name": "Gemeente Arnhem - Communicatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arnhem_(gemeente)"
+  },
+  {
+    "name": "Gemeente Arnhem - Geo-informatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arnhem_(gemeente)"
+  },
+  {
+    "name": "Gemeente Arnhem - Openbare ruimte en erfgoed",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arnhem_(gemeente)"
+  },
+  {
+    "name": "Gemeente Arnhem - Ruimtelijk juridische zaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arnhem_(gemeente)"
+  },
+  {
+    "name": "Gemeente Assen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Assen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Bloemendaal en Gemeente Heemstede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "name": "Gemeente Breda",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Breda_(gemeente)"
+  },
+  {
+    "name": "Gemeente Breda afdeling SB/PI/IVMO",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Breda_(gemeente)"
+  },
+  {
+    "name": "Gemeente Den Haag",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage"
+  },
+  {
+    "name": "Gemeente Duiven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)"
+  },
+  {
+    "name": "gemeente Ede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "name": "Gemeente Ede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "name": "Gemeente Enschede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)"
+  },
+  {
+    "name": "Gemeente Gooise Meren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "name": "Gemeente Gorinchem",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gorinchem_(gemeente)"
+  },
+  {
+    "name": "gemeente Groningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Groningen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Heemstede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "name": "Gemeente Helmond",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Helmond_(gemeente)"
+  },
+  {
+    "name": "Gemeente Koggenland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Koggenland"
+  },
+  {
+    "name": "Gemeente Koggenland - Geo informatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Koggenland"
+  },
+  {
+    "name": "Gemeente Lingewaard",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Lingewaard"
+  },
+  {
+    "name": "Gemeente Maasgouw",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "name": "Gemeente Midden-Groningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Midden-Groningen"
+  },
+  {
+    "name": "Gemeente Nieuwegein",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "name": "Gemeente Nijmegen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Nunspeet",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nunspeet_(gemeente)"
+  },
+  {
+    "name": "Gemeente Rotterdam",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rotterdam"
+  },
+  {
+    "name": "Gemeente Schagen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Steenbergen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Steenbergen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Tilburg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "name": "gemeente Utrechtse Heuvelrug",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Utrechtse_Heuvelrug"
+  },
+  {
+    "name": "Gemeente Velsen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Velsen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Vlaardingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "name": "Gemeente Zaanstad",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Adviesbureau funderingsherstel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Afdeling Beheer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Afdelingsnaam",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Bedrijvigheid &amp; Omgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Bedrijvigheid en Omgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Beheer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Beheer openbare ruimte",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Beheer Openbare Ruimte",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Belastingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Bouw- En Milieuvergunningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Dienst Wijken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Grondzaken &amp; Bodem",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Grondzaken en bodem",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Grondzaken en Bodem",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Havens en Vaarwegen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, IBT, team Geo",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, IBT, Team geo",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, IBT, Team Geo",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Klantcontact Burgerzaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Maatschappelijke Ontwikkeling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Planologische kaders",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Planologische Kaders",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Realisatie en Beheer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Ruimtelijke Kwaliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Strategie & Beleid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Strategie & Onderzoek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Strategie &amp; Beleid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, team GEO",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zaanstad, Team Geo",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "name": "Gemeente Zwolle",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zwolle_(gemeente)"
+  },
+  {
+    "name": "Gemeentearchief Ede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "name": "GemGids",
+    "target_value": "http://data.overheid.nl/organisatie/gemgids"
+  },
+  {
+    "name": "Geodan",
+    "target_value": "http://data.overheid.nl/organisatie/geodan"
+  },
+  {
+    "name": "gezamenlijke provincies",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Interprovinciaal_Overleg"
+  },
+  {
+    "name": "GIS-diensten gemeente Rotterdam",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rotterdam"
+  },
+  {
+    "name": "GOVI",
+    "target_value": "http://data.overheid.nl/organisatie/govi"
+  },
+  {
+    "name": "Het Oversticht Zwolle",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "Het Waterschapshuis",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/wsh"
+  },
+  {
+    "name": "ICTU",
+    "target_value": "http://data.overheid.nl/organisatie/ictu"
+  },
+  {
+    "name": "IF Technology",
+    "target_value": "http://data.overheid.nl/organisatie/iftech"
+  },
+  {
+    "name": "IF Technology bv",
+    "target_value": "http://data.overheid.nl/organisatie/iftech"
+  },
+  {
+    "name": "ILT",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Inspectie_Leefomgeving_en_Transport"
+  },
+  {
+    "name": "Imergis",
+    "target_value": "http://data.overheid.nl/organisatie/imergis"
+  },
+  {
+    "name": "Informatiehuis Water",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ihw"
+  },
+  {
+    "name": "Instituut Fysieke Veiligheid",
+    "target_value": "http://data.overheid.nl/organisatie/Instituut-Fysieke-Veiligheid"
+  },
+  {
+    "name": "Interprovinciaal Overleg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Interprovinciaal_Overleg"
+  },
+  {
+    "name": "IPO GBO-provincies",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Interprovinciaal_Overleg"
+  },
+  {
+    "name": "Kadaster",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Kadaster - Informatiehuis Ruimte",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Kadaster en Openbare Registers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Kadaster Geo-Informatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Kadaster Geo-Informatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Kamer van Koophandel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Kamer_van_Koophandel"
+  },
+  {
+    "name": "Kennis- en Exploitatiecentrum Officiële Overheidspublicaties (KOOP)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Kenniscentrum infomil",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Kiesraad",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Kiesraad"
+  },
+  {
+    "name": "Koninklijk Nederlands Meteorologisch Instituut (KNMI)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut"
+  },
+  {
+    "name": "Koninklijke Bibliotheek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek"
+  },
+  {
+    "name": "KOOP",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Landelijk Samenwerkingsverband GBKN",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Landschap Erfgoed Utrecht (LEU)",
+    "target_value": "http://data.overheid.nl/organisatie/leu"
+  },
+  {
+    "name": "Landschap Noord-Holland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Holland"
+  },
+  {
+    "name": "LEI Wageningen UR",
+    "target_value": "http://data.overheid.nl/organisatie/wageningen-ur"
+  },
+  {
+    "name": "LEI Wageningen UR",
+    "target_value": "http://data.overheid.nl/organisatie/wageningen-ur"
+  },
+  {
+    "name": "Leidingstrook t.b.v. industriële leidingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Liander",
+    "target_value": "http://data.overheid.nl/organisatie/liander"
+  },
+  {
+    "name": "Logius",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Lokale vergunningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Luchtverkeersleiding Nederland (LVNL)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Luchtverkeersleiding_Nederland"
+  },
+  {
+    "name": "Mapfactory",
+    "target_value": "http://data.overheid.nl/organisatie/mapfact"
+  },
+  {
+    "name": "Maring, dhr. B.H.",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ruddr"
+  },
+  {
+    "name": "Marmos Bodemmanagement",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "MijnGemeenteDichtbij",
+    "target_value": "http://data.overheid.nl/organisatie/MijnGemeenteDichtbij"
+  },
+  {
+    "name": "MijnGemeenteDichtbij",
+    "target_value": "http://data.overheid.nl/organisatie/MijnGemeenteDichtbij"
+  },
+  {
+    "name": "Ministerie I&M",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "Ministerie van Algemene Zaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Algemene_Zaken"
+  },
+  {
+    "name": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties / DIR",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Ministerie van Buitenlandse Zaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Buitenlandse_Zaken"
+  },
+  {
+    "name": "Ministerie van Defensie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Defensie"
+  },
+  {
+    "name": "Ministerie van Defensie - MvD, CDC/IVENT/DCDI/DB",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Defensie"
+  },
+  {
+    "name": "Ministerie van Defensie, Commando Zeestrijdkrachten, Dienst der Hydrografie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Defensie"
+  },
+  {
+    "name": "Ministerie van Defensie, Koninklijke Marine, Dienst der Hydrografie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Defensie"
+  },
+  {
+    "name": "Ministerie van Economisch Zaken - Programmadirectie Natura 2000",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - Directie Dierlijke Agroketens en Dierenwelzijn - Cluster Uitvoering visserijregelingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - Directie Natuur & Biodiversiteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - Directie Natuur & Biodiversiteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - Directie Natuur en Biodiversiteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - GIS Competence Center",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - Programmadirectie Natura 2000",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken - Rijksdienst voor Ondernemend Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "Ministerie van Economische Zaken – GIS Competence Center",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "Ministerie van Economische Zaken, Landbouw en Innovatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken"
+  },
+  {
+    "name": "Ministerie van Economische Zaken, Landbouw en Innovatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken_Landbouw_en_Innovatie"
+  },
+  {
+    "name": "Ministerie van Financiën",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Financien"
+  },
+  {
+    "name": "Ministerie van Financiën/DGRB",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Financien"
+  },
+  {
+    "name": "Ministerie van IenM",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "Ministerie van IenW",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "Ministerie van Infrastructuur en Milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "Ministerie van Justitie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Justitie"
+  },
+  {
+    "name": "Ministerie van Landbouw Natuur en Voedselkwaliteit (LNV)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Landbouw,_Natuur_en_Voedselkwaliteit"
+  },
+  {
+    "name": "Ministerie van Landbouw, Natuur en Voedselkwaliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Landbouw,_Natuur_en_Voedselkwaliteit"
+  },
+  {
+    "name": "Ministerie van Onderwijs, Cultuur en Wetenschap",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap"
+  },
+  {
+    "name": "Ministerie van Sociale Zaken en Werkgelegenheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Sociale_Zaken_en_Werkgelegenheid"
+  },
+  {
+    "name": "Ministerie van Veiligheid en Justitie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Veiligheid_en_Justitie"
+  },
+  {
+    "name": "Ministerie van Verkeer en Waterstaat",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Verkeer_en_Waterstaat"
+  },
+  {
+    "name": "Ministerie van Volksgezondheid, Welzijn en Sport",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Volksgezondheid,_Welzijn_en_Sport"
+  },
+  {
+    "name": "Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Volkshuisvesting,_Ruimtelijke_Ordening_en_Milieubeheer"
+  },
+  {
+    "name": "Ministerie van VROM",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "NASA",
+    "target_value": "http://data.overheid.nl/organisatie/nasa"
+  },
+  {
+    "name": "Nationaal Archief",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nationaal_Archief"
+  },
+  {
+    "name": "Nationaal Lucht- en Ruimtevaartlaboratorium NLR",
+    "target_value": "http://data.overheid.nl/organisatie/nlr"
+  },
+  {
+    "name": "Nationale Databank Wegverkeersgegevens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ndw"
+  },
+  {
+    "name": "Natuurbalans - Limes Divergens BV",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Limburg"
+  },
+  {
+    "name": "Natuurbalans - Limes Divergens BV",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Limburg"
+  },
+  {
+    "name": "RVO.nl",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "Natuurloket / Bij12",
+    "target_value": "http://data.overheid.nl/organisatie/bij12"
+  },
+  {
+    "name": "NEA",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "NEA",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Nederlands Lucht- en Ruimtevaartcentrum NLR",
+    "target_value": "http://data.overheid.nl/organisatie/nederlands-lucht-en-ruimtevaartcentrum"
+  },
+  {
+    "name": "Nederlandse Emissieautoriteit (NEa)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Emissieautoriteit"
+  },
+  {
+    "name": "Netherlands Space Office",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/nso"
+  },
+  {
+    "name": "Nieuwland Geo-Informatie",
+    "target_value": "http://data.overheid.nl/organisatie/niegeoinf"
+  },
+  {
+    "name": "Nijmegen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)"
+  },
+  {
+    "name": "NIOZ Royal Netherlands Institute for Sea Research",
+    "target_value": "http://data.overheid.nl/organisatie/nioz"
+  },
+  {
+    "name": "NIROV",
+    "target_value": "http://data.overheid.nl/organisatie/nirov"
+  },
+  {
+    "name": "NIROV",
+    "target_value": "http://data.overheid.nl/organisatie/nirov"
+  },
+  {
+    "name": "Noord-Holland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Holland"
+  },
+  {
+    "name": "NVWA",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Voedsel_en_Warenautoriteit"
+  },
+  {
+    "name": "Omgevingsdienst Midden-Holland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/odmh"
+  },
+  {
+    "name": "Omgevingsdienst Zuid-Oost Brabant",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/odzobr"
+  },
+  {
+    "name": "Open Data Nederland",
+    "target_value": "http://data.overheid.nl/organisatie/odn"
+  },
+  {
+    "name": "Over Morgen B.V.",
+    "target_value": "http://data.overheid.nl/organisatie/over-morgen-bv"
+  },
+  {
+    "name": "Over Morgen B.V.",
+    "target_value": "http://data.overheid.nl/organisatie/over-morgen-bv"
+  },
+  {
+    "name": "PBL Planbureau voor de Leefomgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pbl"
+  },
+  {
+    "name": "PBL Planbureau voor de Leefomgeving / CBS / WUR",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pbl"
+  },
+  {
+    "name": "PBL Planbureau voor de Leefomgeving en Centraal Bureau voor de Statistiek (CBS)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pbl"
+  },
+  {
+    "name": "PDOK",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pdok"
+  },
+  {
+    "name": "Planbureau en bibliotheek van zeeland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Planbureau voor de Leefomgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pbl"
+  },
+  {
+    "name": "Planbureau voor de Leefomgeving (PBL)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pbl"
+  },
+  {
+    "name": "ProRail AM Informatie",
+    "target_value": "http://data.overheid.nl/organisatie/prorail"
+  },
+  {
+    "name": "ProRail AM Informatie",
+    "target_value": "http://data.overheid.nl/organisatie/prorail"
+  },
+  {
+    "name": "ProRail AM Informatie IDC",
+    "target_value": "http://data.overheid.nl/organisatie/prorail"
+  },
+  {
+    "name": "Provincie Drenthe",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Drenthe"
+  },
+  {
+    "name": "Provincie Flevoland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Flevoland"
+  },
+  {
+    "name": "provincie Fryslân",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Fryslan"
+  },
+  {
+    "name": "Provincie Gelderland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gelderland"
+  },
+  {
+    "name": "Provincie Groningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Groningen_(provincie)"
+  },
+  {
+    "name": "Provincie Limburg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Limburg"
+  },
+  {
+    "name": "Provincie Noord-Brabant",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Brabant"
+  },
+  {
+    "name": "Provincie Noord-Holland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Holland"
+  },
+  {
+    "name": "Provincie Noord-Holland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Holland"
+  },
+  {
+    "name": "Provincie Noord-Holland, Sector Kennis & Beleidsevaluatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Holland"
+  },
+  {
+    "name": "Provincie Overijssel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "Provincie Overijssel eenheid Natuur en Milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "Provincie Overijssel: eenheid Publieke Dienstverlening",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "Provincie Overijssel: team Beleidsinformatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "Provincie Utrecht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)"
+  },
+  {
+    "name": "Provincie Utrecht Fysieke Leefomgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)"
+  },
+  {
+    "name": "Provincie Utrecht Informatievoorziening",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)"
+  },
+  {
+    "name": "Provincie Utrecht Mobiliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)"
+  },
+  {
+    "name": "Provincie Utrecht Wegen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, afdeling Milieuhygiëne, cluster Bodem",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, afdeling Milieuhygiëne, cluster Milieukwaliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, Afdeling Mobiliteit en Samenleving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, afdeling Ruimte, cluster Ruimtelijke Ontwikkeling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, afdeling Welzijn, cluster Cultuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, cluster GIS en ICT",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, cluster uitvoering Rudt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, Directie RMW, afdeling bedrijfsvoering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, Directie WEB, afdeling welzijn",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, Directie WEB, afdeling Welzijn",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zuid-Holland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Provincie Zuid-Holland Dienst Beheer en Infrastructuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Provincie Zuid-Holland Directie Concernzaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Provincie Zuid-Holland Directie Leefomgeving en Bestuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Provincie Zuid-Holland Directie Omgevingsdiensten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Provincie Zuid-Holland Directie Ruimte en Mobiliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "Provincie Zuid-Holland Omgevingsdienst Haaglanden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zuid-Holland"
+  },
+  {
+    "name": "RAAP Archeologisch Adviesbureau",
+    "target_value": "http://data.overheid.nl/organisatie/raap"
+  },
+  {
+    "name": "RDW",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RDW_(Dienst_Wegverkeer)"
+  },
+  {
+    "name": "Recreatie Midden-Nederland (RMN)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/rmn"
+  },
+  {
+    "name": "Rijksdienst voor Cultureel Erfgoed",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed"
+  },
+  {
+    "name": "Rijksdienst voor het Cultureel Erfgoed",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed"
+  },
+  {
+    "name": "Rijksdienst voor het Cultureel Erfgoed (RCE)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed"
+  },
+  {
+    "name": "Rijksdienst voor Ondernemend Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "Rijksdienst voor Ondernemend Nederland (RvO)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "Rijksinstituut voor Volksgezondheid en Milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
+    "name": "Rijksmuseum, Amsterdam",
+    "target_value": "http://data.overheid.nl/organisatie/Rijksmuseum"
+  },
+  {
+    "name": "Rijksvastgoedbedrijf",
+    "target_value": "http://data.overheid.nl/organisatie/rijksvastgoed"
+  },
+  {
+    "name": "Rijkswaterstaat",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Rijkswaterstaat Centrale Informatievoorziening (CIV)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Rijkswaterstaat Data en ICT Dienst (DID)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Rijkswaterstaat ism zwemwater.nl",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Rijkswaterstaat Leefomgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "RIVM",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
+    "name": "RIVM/I&V/EPI",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
+    "name": "Routebureau Groningen (Landschapsbeheer Groningen)",
+    "target_value": "http://data.overheid.nl/organisatie/Routebureau_Groningen_(Landschapsbeheer_Groningen)"
+  },
+  {
+    "name": "Royal Haskoning",
+    "target_value": "http://data.overheid.nl/organisatie/haskoning"
+  },
+  {
+    "name": "Royal Netherlands Meteorological Institute (KNMI)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut"
+  },
+  {
+    "name": "RUD",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "RUD Zeeland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "RVO",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/RVO"
+  },
+  {
+    "name": "RWS Centrale Informatievoorziening (CIV)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "RWS Leefomgeving/Bodem+",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Samenwerkende Catalogi",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Sectie Basisregistraties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "name": "Sectie Basisregistraties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "name": "Servicedesk Informatiehuis Water",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ihw"
+  },
+  {
+    "name": "Sportvisserij Nederland",
+    "target_value": "http://data.overheid.nl/organisatie/sportvisserij"
+  },
+  {
+    "name": "Staf deltacommissaris",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Infrastructuur_en_Milieu"
+  },
+  {
+    "name": "Statistics Netherlands",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
+  },
+  {
+    "name": "Steunpunt Monumentenzorg Fryslân",
+    "target_value": "http://data.overheid.nl/organisatie/spmzfr"
+  },
+  {
+    "name": "Stichting Historisch Boerderij Onderzoek",
+    "target_value": "http://data.overheid.nl/organisatie/sthisbo"
+  },
+  {
+    "name": "Stichting Landelijk Fietsplatform",
+    "target_value": "http://data.overheid.nl/organisatie/stlanfiet"
+  },
+  {
+    "name": "Stichting RIONED",
+    "target_value": "https://data.overheid.nl/organisatie/rioned"
+  },
+  {
+    "name": "Stichting Wandelnet",
+    "target_value": "http://data.overheid.nl/organisatie/stwanet"
+  },
+  {
+    "name": "Stuurgroep AHN",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "stuurgroep AHN",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "Susanne Wentink",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "Susanne Wentink",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overijssel"
+  },
+  {
+    "name": "TDN",
+    "target_value": "http://data.overheid.nl/organisatie/tdn"
+  },
+  {
+    "name": "TNO",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "name": "TNO GDNL",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "name": "TNO Geologische Dienst Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "name": "TNO-GDN",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "name": "TNO-NITG",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "name": "Topografische Dienst Kadaster",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Topografische Dienst Kadaster",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Veiligheidsregio IJsselland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_IJsselland"
+  },
+  {
+    "name": "Velsen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Velsen_(gemeente)"
+  },
+  {
+    "name": "Wageningen Environmental Research",
+    "target_value": "http://data.overheid.nl/organisatie/wageningen-ur"
+  },
+  {
+    "name": "Wageningen Environmental Research",
+    "target_value": "http://data.overheid.nl/organisatie/wageningen-ur"
+  },
+  {
+    "name": "Wageningen Environmental Research (Alterra)",
+    "target_value": "http://data.overheid.nl/organisatie/alterra"
+  },
+  {
+    "name": "Waterschap Aa en Maas",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas"
+  },
+  {
+    "name": "Waterschap Drents Overijsselse Delta",
+    "target_value": "http://data.overheid.nl/organisatie/Waterschap Drents Overijsselse Delta"
+  },
+  {
+    "name": "Waterschap Hunze en Aa's",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Waterschap_Hunze_en_Aa's"
+  },
+  {
+    "name": "Waterschap Peel en Maasvallei (WPM)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Waterschap_Peel_en_Maasvallei"
+  },
+  {
+    "name": "Waterschap Rivierenland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Waterschap_Rivierenland"
+  },
+  {
+    "name": "Waterschap Roer en Overmaas (WRO)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Waterschap_Roer_en_Overmaas"
+  },
+  {
+    "name": "WBI / Kennis en Verkenningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "Witteveen en Bos",
+    "target_value": "http://data.overheid.nl/organisatie/wvenbos"
+  },
+  {
+    "name": "Zeeuws Archief",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Zonatlas NL B.V",
+    "target_value": "http://data.overheid.nl/organisatie/zonatlas-nl-bv"
+  },
+  {
+    "name": "Zorginstituut Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/zin"
+  }
+]

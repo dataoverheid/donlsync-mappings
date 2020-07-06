@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Binnenwateren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "name": "biota",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer"
+  },
+  {
+    "name": "boundaries",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid"
+  },
+  {
+    "name": "climatologyMeteorologyAtmosphere",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Lucht"
+  },
+  {
+    "name": "climatologymeteorologyatmosphere",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Lucht"
+  },
+  {
+    "name": "economy",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "elevation",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "environment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "farming",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "geoscientificInformation",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "geoscientificinformation",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "health",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezondheidsrisico's"
+  },
+  {
+    "name": "imageryBaseMapsEarthCover",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "imagerybasemapsearthcover",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "inlandWaters",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "name": "inlandwaters",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "name": "intelligenceMilitary",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid"
+  },
+  {
+    "name": "location",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid"
+  },
+  {
+    "name": "oceans",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "name": "planningcadastre",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
+  },
+  {
+    "name": "planningCadastre",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "society",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "name": "structure",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
+  },
+  {
+    "name": "structures",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
+  },
+  {
+    "name": "Transport",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "transportation",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "utilitiesCommunication",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "utilitiescommunication",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "vervoer door de lucht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Zorg en gezondheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Zorg-en-gezondheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  }
+]

@@ -1,0 +1,1810 @@
+[
+  {
+    "name": "(Bedrijfseconomisch) ontslag",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ontslag_(thema)"
+  },
+  {
+    "name": "(On)veiligheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "(On)veiligheidsbeleving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "(Woning)hypotheken en hypotheekrente",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Kopen_en_verkopen"
+  },
+  {
+    "name": "Aandelen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Aanvoer afval bij recyclingbedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Afval_(thema)"
+  },
+  {
+    "name": "Aardgas, aardolie, kolen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Stoffen"
+  },
+  {
+    "name": "Afvalstoffen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Afval_(thema)"
+  },
+  {
+    "name": "Afvalwaterzuivering bij bedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "Agriculture",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Akkerbouw en tuinbouw",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Algemene Nabestaandenwet",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Alle sectoren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "AOW",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "name": "Arbeid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Arbeid en arbeidsmarkt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Arbeid en sociale zekerheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Arbeidsdeelname",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Arbeidskosten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Arbeidsmarkt mobiliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Arbeidsmarktmobiliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Arbeidsmarktmobiliteit (12-uursgrens)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Arbeidsongeschiktheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "name": "Arbeidsongeschiktheid vanaf 1998",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "name": "Arbeidsongevallen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsomstandigheden_(thema)"
+  },
+  {
+    "name": "Archieven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Asiel en verblijf",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Asylum and residence",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Average prices",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "AWBZ/WMO-gefinancierde zorg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Banen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_en_loopbaan"
+  },
+  {
+    "name": "Bbp, finale bestedingen en productie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Bedrijfsafval",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Afval_(thema)"
+  },
+  {
+    "name": "Bedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Bedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Belastingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Belasting"
+  },
+  {
+    "name": "Beleggen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Beroep en branches",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Beroepsbevolking",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Beroepstelling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Bestedingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Bestrijdingsmiddelen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer"
+  },
+  {
+    "name": "Bestuursrecht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuursrecht"
+  },
+  {
+    "name": "Beurs NV's",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Bevolking",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Bevolking en huishoudens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Bevolking naar migratieachtergrond",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Bevolking naar nationaliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Bevolkingsontwikkeling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Bevolkingsprognose",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Bevolkingsprognose; 2014-2060",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Bevolkingsprognose; 2017-2060",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Bibliotheken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Bijstand en andere inkomensvoorzieningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Binnenwateren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "name": "Biologische landbouw",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Bouwen en wonen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "name": "Bouwkosten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bouwnijverheid"
+  },
+  {
+    "name": "Bouwnijverheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bouwnijverheid"
+  },
+  {
+    "name": "Bouwvergunningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bouwnijverheid"
+  },
+  {
+    "name": "Branches",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Bromfietsen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Bruto binnenlands product",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Buitenlandse gasten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Buitenlandse werknemers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Burgers en politie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Politie_brandweer_en_hulpdiensten"
+  },
+  {
+    "name": "Business outlook",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Business services",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Cao-lonen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "name": "Car and motorcycle trade",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Caribisch Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Carribean Netherlands",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Carribean Netherlands",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Change of ownership",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Civiel recht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Burgerlijk_recht"
+  },
+  {
+    "name": "Coal, crude, natural gas",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Stoffen"
+  },
+  {
+    "name": "Conjunctuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Construction and housing",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "name": "Construction industry",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bouwnijverheid"
+  },
+  {
+    "name": "Consumentenprijzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Consumentenvertrouwen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Consumer prices",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "CPI/HICP details",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "CPI; price index 1969-2006=100",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "CPI; prijsindex 1969-2006=100",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Markttoezicht"
+  },
+  {
+    "name": "Culture",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Cultuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Dagrecreatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Death and causes of death",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Deaths",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Deelname vakanties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Delfstoffenwinning",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Detailhandel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Drugsgebruik",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Duurzame inzetbaarheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Dwellings and buildings",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "name": "E-commerce",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Education",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Eigendomsoverdracht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Electricity and heat",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Elektriciteit en warmte",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Elektronische overheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksoverheid"
+  },
+  {
+    "name": "Emissiefactoren wegverkeer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Emissies naar lucht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Lucht"
+  },
+  {
+    "name": "Emissies naar water en waterzuivering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "Emissies water en waterzuivering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Emissions into air",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Lucht"
+  },
+  {
+    "name": "Employment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Energie en water",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Energieprijzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Energieprijzen en branchegegevens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Energieverbruik naar sector",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Energy",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Energy consumers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Enterprises",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Environment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Ervaren gezondheid, ziekte, zorggebruik",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Final expenditure and output",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Finale bestedingen en productie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Finance, spendings, employment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Financial and business services",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overige_economische_sectoren"
+  },
+  {
+    "name": "Financial figures",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Financial markets",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financial services",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overige_economische_sectoren"
+  },
+  {
+    "name": "Financiële gegevens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiële instellingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiële markten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiën en personeel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Financiën gemeenschappelijke regelingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiën gemeenten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiën niet-financiële ondernemingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Financiën provincies",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiën rijk",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiën van ondernemingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Financiën waterschappen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Financiering en uitgaven onderwijs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Financiering, uitgaven, werkgelegenheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Fire services",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Politie_brandweer_en_hulpdiensten"
+  },
+  {
+    "name": "Flexibele schil",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Foreign AffiliaTes Statistics (FATS)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Fysieke arbeidsbelasting",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsomstandigheden_(thema)"
+  },
+  {
+    "name": "GDP and main components",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Gebieden in Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Geboorte",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Geboortegeneraties; arbeid, uitkeringen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Geestelijke gezondheidszorg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Gemiddelde prijzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Geneesmiddelen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Geneesmiddelen_en_medische_hulpmiddelen"
+  },
+  {
+    "name": "Geregistreerde criminaliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Criminaliteit"
+  },
+  {
+    "name": "Geregistreerde werkloosheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Gesubsidieerde rechtsbijstand",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recht_(thema)"
+  },
+  {
+    "name": "Gezinsstatistiek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Gezonde levensverwachting",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Gezondheid en welzijn",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "name": "Gezondheid en welzijn",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Gezondheid, leefstijl, zorggebruik",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Goederen (SITC) naar landen(groepen)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Goederensoorten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Goederensoorten, (niet-)EU, per maand",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Goederensoorten, landen per jaar",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Government and politics",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Government; Directive 2011/85/EU",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Groei",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Groothandel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Gross domestic products",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Growth accounts",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Halt-jongeren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Strafrecht"
+  },
+  {
+    "name": "Handel; diensten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Handel; goederen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "HBO en WO: deeltijd",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Health and welfare",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Health, life style, use of care",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Health, lifestyle, use of care",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Hernieuwbare energie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "HICP; price index 1996-2006=100",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "HICP; prijsindex 1996-2006=100",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Markttoezicht"
+  },
+  {
+    "name": "HO arbeidsmarktpositie afgestudeerden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "Ho gediplomeerden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "Ho Ingeschrevenen, eerstejaars, herkomst",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "HO Ingeschrevenen, eerstejaars, herkomst",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "Ho studievoortgang",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "Hoger onderwijs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "Horeca",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overige_economische_sectoren"
+  },
+  {
+    "name": "Horticulture",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Hotels and restaurants",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voeding"
+  },
+  {
+    "name": "Huisartsenzorg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "name": "Huishoudens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Huishoudens en personen in huishoudens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Huishoudensprognose; 2013-2060",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Huwen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "ICT and innovation",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT en Automatisering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT en e-commerce",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "ICT use by companies",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2009)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2010)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2012)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2013)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2014)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2015)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2016)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik (2017)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik bedrijven 2002-2005",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik bedrijven 2006",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik bedrijven 2007",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik bedrijven 2008",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "ICT-gebruik financiële sector",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "name": "Immi- en emigratie, asiel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Income and spending",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Industrie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Industriële inkopen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Inkomen en bestedingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Inkomen en bestedingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Inkomen van huishoudens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Inkomensbeleid"
+  },
+  {
+    "name": "Inkomen van personen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Inkomensbeleid"
+  },
+  {
+    "name": "Inkomen van zelfstandigen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Inkomensbeleid"
+  },
+  {
+    "name": "Inkomens- en vermogensrekeningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Innovatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Institutional investors",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overige_economische_sectoren"
+  },
+  {
+    "name": "Institutionele beleggers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Internationaal vergelijkbare uitgaven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "International sourcing",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "International trade",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Internationale handel",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Investeringen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Investeringen en infrastructuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Investment climate",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Investments",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Jeugdzorg na 1-1-2015",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Jongeren_(gezondheid-thema)"
+  },
+  {
+    "name": "Jeugdzorg voor 1-1-2015",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Jongeren_(gezondheid-thema)"
+  },
+  {
+    "name": "Jobs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Kerncijfers per regio",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Kernprognose; 2016-2060",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Kinderbescherming",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Koopkrachtontwikkeling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Koplopers en achterblijvers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Korte vakanties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Kunst",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Kunst_(thema)"
+  },
+  {
+    "name": "Labour and social security",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Labour force, unemployment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Land use",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "name": "Landbouw",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Landbouw: diensten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Landbouwtelling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Landbouwtelling en biologische landbouw",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "Lange vakanties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Leefbaarheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Leefbaarheid en overlast woonbuurt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Leefstijl en preventie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Legal protection",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Leisure and culture",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "name": "Levenlang leren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overige_vormen_van_onderwijs"
+  },
+  {
+    "name": "Livestock",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dieren_(thema)"
+  },
+  {
+    "name": "Logiesaccommodaties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Logiesaccomodaties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Lonen en minimumloon",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "name": "Macroeconomics",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Manufacturing",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Marriages and marriage dissolutions",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Mbo deelnemers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "MBO deelnemers",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "Mbo gediplomeerden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "MBO gediplomeerden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "MBO gediplomeerden naar arbeidsmarkt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "Mbo instroom",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "MBO stromen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "Mbo studievoortgang",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "MBO studievoortgang",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "Medisch Specialistische Zorg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "name": "Menselijk kapitaal",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Migration and asylum requests",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "name": "Milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Milieubedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Milieukosten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Milieukosten; gehele economie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Milieukosten; sectoren",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Minimumloon",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "name": "Misdrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Misdrijven en delicten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Mobiliteit van personen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)"
+  },
+  {
+    "name": "Motor- en autobranche",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Motorvoertuigen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Musea",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Musea en monumenten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Museums and monuments",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "name": "Nabijheid van voorzieningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Nalatenschappen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Belasting"
+  },
+  {
+    "name": "Nationaal Kiezersonderzoek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "National accounts",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Nationaliteitswijziging",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlanderschap_(thema)"
+  },
+  {
+    "name": "Nature and environment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Natuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Natuur en milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Nijverheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Number of enterprises",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "name": "Obligaties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Ondernemingsklimaat",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Ondersteunende diensten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Onderwijs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Onderwijs en arbeidsmarkt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Jongeren_(thema)"
+  },
+  {
+    "name": "Onderwijsniveau bevolking",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Onveiligheidsbeleving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Overall picture",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Overheid en politiek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Overheid, volgens overheidsadministratie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Overheid;  EU-richtlijn 2011/85",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Overheidsfinanciën",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Overheidsfinanciën algemeen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Overheidsfinanciën, macro-economisch",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Overledenen in ziekenhuis",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "name": "Patenten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Markttoezicht"
+  },
+  {
+    "name": "Penitentiaire inrichtingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Strafrecht"
+  },
+  {
+    "name": "Pensioen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Levensloop"
+  },
+  {
+    "name": "Pensioen en andere regelingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Pensioenaanspraken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Personen in huishoudens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Personen met bijstand",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Personen met uitkering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Personen met uitkeringen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "name": "Plaatsnamen in Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Politiehulp",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Politie_brandweer_en_hulpdiensten"
+  },
+  {
+    "name": "Population",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Population and household",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Population development",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Preventie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Prices",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bouwen_en_verbouwen"
+  },
+  {
+    "name": "Primair onderwijs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Basisonderwijs_(thema)"
+  },
+  {
+    "name": "Producentenprijzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Markttoezicht"
+  },
+  {
+    "name": "Producer prices",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Productie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "Psycho-sociale arbeidsbelasting",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsomstandigheden_(thema)"
+  },
+  {
+    "name": "Rechtsbescherming",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recht_(thema)"
+  },
+  {
+    "name": "Rechtshulp",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recht_(thema)"
+  },
+  {
+    "name": "Rechtspraak en rechtshandhaving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rechtspraak"
+  },
+  {
+    "name": "Recreatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Regionale indelingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Relatievorming en -ontbinding",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Religie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Religie"
+  },
+  {
+    "name": "Renewable energy",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Research & Development",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Retail trade",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Risico op armoede",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Ruimtelijke gegevens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Scheiden en verweduwen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Sector accounts; income and wealth",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Sector households",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Sector huishoudens",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Sector overheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Security",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Criminaliteit"
+  },
+  {
+    "name": "Security and justice",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Criminaliteit"
+  },
+  {
+    "name": "Slachtofferhulp",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Politie_brandweer_en_hulpdiensten"
+  },
+  {
+    "name": "Slachtofferschap",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Slachtofferschap criminaliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Criminaliteit"
+  },
+  {
+    "name": "Social security",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Sociale zekerheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Sparen en lenen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Spoorvervoer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Sport",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sport_(thema)"
+  },
+  {
+    "name": "Sterfte",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "Sterfte en doodsoorzaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Strafrecht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Strafrecht"
+  },
+  {
+    "name": "Tijdsbesteding en religie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "name": "Tijdsbesteding en vrije tijd",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "name": "Toerisme",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Totaalbeeld",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "name": "Trade, hotels and restaurants",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Trade: goods",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Trade: services",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Traffic and transport",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)"
+  },
+  {
+    "name": "Transportbedrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Uitgaven veiligheidszorg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Uitval van motorvoertuigen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Afval_(thema)"
+  },
+  {
+    "name": "Unemployment",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Vacancies",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Vacatures",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Vakanties",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "name": "Vakbeweging en stakingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "name": "Van ho naar arbeidsmarkt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "name": "Van mbo naar arbeidsmarkt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "name": "Veehouderij",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dieren_(thema)"
+  },
+  {
+    "name": "Veiligheid en recht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Veiligheidsmonitor",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Verdachten van misdrijven",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Verkeer en vervoer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)"
+  },
+  {
+    "name": "Verkeer motorvoertuigen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Verkeersprestaties bedrijfsvoertuigen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Verkeersprestaties personenauto's",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Verkeersprestaties totaaloverzicht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Verkiezingen en politiek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Verkiezingen Europees Parlement",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Parlement"
+  },
+  {
+    "name": "Verkiezingen Provinciale Staten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Provincies"
+  },
+  {
+    "name": "Verkiezingen Tweede Kamer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Verkiezingen tweede kamer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Parlement"
+  },
+  {
+    "name": "Verkiezingsuitslagen vanaf 1918",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Vermogen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Vervoer door de lucht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Luchtvaart"
+  },
+  {
+    "name": "Vervoer over land",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Vervoer over water",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Vervoer personen en goederen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Vervoermiddelen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Visserij",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dieren_(thema)"
+  },
+  {
+    "name": "Vo gediplomeerden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "name": "VO geslaagden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "name": "Vo leerlingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "name": "Vo stromen en vertraging",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "name": "Vo studievoortgang brugklassen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "name": "Voertuigenbezit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "name": "Volkstelling",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Volkstelling 1899",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Volume and price",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Volwasseneneducatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Overige_vormen_van_onderwijs"
+  },
+  {
+    "name": "Voortgezet onderwijs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "name": "Voortijdig schoolverlaters (vsv)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Voortijdig schoolverlaters (VSV)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Vorderingen en re-ïntegratie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "name": "Vrije tijd en cultuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "name": "VSV; achtergrondkenmerken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "VSV; arbeidsmarkt",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "VSV; verdacht van misdrijf",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Wages and labour costs",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "name": "Wanbetalers zorgverzekering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verzekeringen"
+  },
+  {
+    "name": "Wanbetalers zorgverzekering, 2006-2009",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verzekeringen"
+  },
+  {
+    "name": "Waterverbruik",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Watervoorziening",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Wegvervoer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "Welfare",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Welzijn",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Wereldmarktprijzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Markttoezicht"
+  },
+  {
+    "name": "Werk",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "name": "Werkgelegenheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Werkloosheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Werkloosheidsuitkering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Werkloze beroepsbevolking",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Werkloze beroepsbevolking (12-uursgrens)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "name": "Werkzame beroepsbevolking",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Werkzame beroepsbevolking (12-uur)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "name": "Wetenschappelijk onderwijs (wo)",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderzoek_en_wetenschap"
+  },
+  {
+    "name": "Wholesale trade",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "Woningen en hun bewoners",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "name": "Woningstatistiek",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "name": "Woongemeenten; leerlingen, studenten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Woonplaatsen in Nederland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Zakelijke en overige dienstverlening",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Ziekenhuisopnamen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "name": "Ziekenhuispatiënten",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "name": "Ziekteverzuim",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "name": "Zorg en zorgtaken",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "name": "Zorgaanbieders",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Zorginstellingen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Zorgkosten basisverzekering per persoon",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verzekeringen"
+  },
+  {
+    "name": "Zuivering van stedelijk afvalwater",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "IV3",
+    "target_value": "https://iv3statline.cbs.nl/portal.html?_la=%s&_catalog=IV3&tableId=%s"
+  },
+  {
+    "name": "MKB",
+    "target_value": "https://mkbstatline.cbs.nl/portal.html?_la=%s&_catalog=MKB&tableId=%s"
+  },
+  {
+    "name": "JM",
+    "target_value": "https://jmopendata.cbs.nl/portal.html?_la=%s&_catalog=JM&tableId=%s"
+  },
+  {
+    "name": "MLZ",
+    "target_value": "https://mlzopendata.cbs.nl/portal.html?_la=%s&_catalog=MLZ&tableId=%s"
+  },
+  {
+    "name": "RIVM",
+    "target_value": "https://statline.rivm.nl/portal.html?_la=%s&_catalog=RIVM&tableId=%s"
+  },
+  {
+    "name": "Politie",
+    "target_value": "https://politieopendata.cbs.nl/portal.html?_la=%s&_catalog=Politie&graphtype=Table&tableId=%s"
+  }
+]

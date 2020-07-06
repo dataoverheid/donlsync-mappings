@@ -1,0 +1,10 @@
+[
+  {
+    "name": "API",
+    "target_value": "https://www.iana.org/assignments/media-types/application/json"
+  },
+  {
+    "name": "Feed",
+    "target_value": "https://www.iana.org/assignments/media-types/application/atom+xml"
+  }
+]

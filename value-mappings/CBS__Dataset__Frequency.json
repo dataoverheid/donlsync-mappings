@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Discontinued",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/NEVER"
+  },
+  {
+    "name": "Onregelmatig",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/IRREG"
+  },
+  {
+    "name": "Perhalfjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Perjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/ANNUAL"
+  },
+  {
+    "name": "Perkwartaal",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  },
+  {
+    "name": "Permaand",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/MONTHLY"
+  },
+  {
+    "name": "Pertweejaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/BIENNIAL"
+  },
+  {
+    "name": "Pervierjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Stopgezet",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/NEVER"
+  },
+  {
+    "name": "Viermaalperjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY"
+  }
+]
