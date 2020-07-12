@@ -1,0 +1,38 @@
+[
+  {
+    "name": "IV3",
+    "target_value": "https://iv3statline.cbs.nl/#/IV3/%s/dataset/%s/table"
+  },
+  {
+    "name": "MKB",
+    "target_value": "https://mkbstatline.cbs.nl/#/MKB/%s/dataset/%s/table"
+  },
+  {
+    "name": "JM",
+    "target_value": "https://jmopendata.cbs.nl/#/JM/%s/dataset/%s/table"
+  },
+  {
+    "name": "MLZ",
+    "target_value": "https://mlzopendata.cbs.nl/#/MLZ/%s/dataset/%s/table"
+  },
+  {
+    "name": "AZW",
+    "target_value": "https://azwstatline.cbs.nl/#/AZW/%s/dataset/%s/table"
+  },
+  {
+    "name": "MVstat",
+    "target_value": "https://mvstat.cbs.nl/#/MVstat/%s/dataset/%s/table"
+  },
+  {
+    "name": "InterReg",
+    "target_value": "https://opendata.grensdata.eu/#/InterReg/%s/dataset/%s/table"
+  },
+  {
+    "name": "RIVM",
+    "target_value": "https://statline.rivm.nl/#/RIVM/%s/dataset/%s/table"
+  },
+  {
+    "name": "Politie",
+    "target_value": "https://data.politie.nl/#/Politie/%s/dataset/%s/table"
+  }
+]
