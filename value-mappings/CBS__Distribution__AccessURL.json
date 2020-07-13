@@ -1,0 +1,6 @@
+[
+  {
+    "name": "CBS",
+    "target_value": "https://opendata.cbs.nl/statline/#/CBS/%s/dataset/%s/table"
+  }
+]

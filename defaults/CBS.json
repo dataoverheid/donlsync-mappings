@@ -7,5 +7,6 @@
   "nationalCoverage": "true",
   "contact_point_name": "Centraal Bureau voor de Statistiek",
   "contact_point_email": "infoservice@cbs.nl",
-  "resource.license": "http://creativecommons.org/licenses/by/4.0/deed.nl"
+  "resource.license": "http://creativecommons.org/licenses/by/4.0/deed.nl",
+  "resource.distributionType": "https://data.overheid.nl/distributiontype/webservice"
 }

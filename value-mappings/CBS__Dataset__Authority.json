@@ -1,25 +1,5 @@
 [
   {
-    "name": "IV3",
-    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
-  },
-  {
-    "name": "MKB",
-    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
-  },
-  {
-    "name": "JM",
-    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
-  },
-  {
-    "name": "MLZ",
-    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
-  },
-  {
-    "name": "RIVM",
-    "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
-  },
-  {
     "name": "CBS",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
   }

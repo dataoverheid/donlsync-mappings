@@ -1,25 +1,5 @@
 [
   {
-    "name": "IV3",
-    "target_value": "https://opendata.cbs.nl/statline/portal.html?_la=%s&_catalog=CBS&tableId=%s"
-  },
-  {
-    "name": "MKB",
-    "target_value": "https://opendata.cbs.nl/statline/portal.html?_la=%s&_catalog=CBS&tableId=%s"
-  },
-  {
-    "name": "JM",
-    "target_value": "https://opendata.cbs.nl/statline/portal.html?_la=%s&_catalog=CBS&tableId=%s"
-  },
-  {
-    "name": "MLZ",
-    "target_value": "https://opendata.cbs.nl/statline/portal.html?_la=%s&_catalog=CBS&tableId=%s"
-  },
-  {
-    "name": "RIVM",
-    "target_value": "https://opendata.cbs.nl/statline/portal.html?_la=%s&_catalog=CBS&tableId=%s"
-  },
-  {
     "name": "CBS",
     "target_value": "https://opendata.cbs.nl/statline/portal.html?_la=%s&_catalog=CBS&tableId=%s"
   }
