@@ -1,0 +1,14 @@
+[
+  {
+    "name": "application/json",
+    "target_value": "https://www.iana.org/assignments/media-types/application/json"
+  },
+  {
+    "name": "text/csv",
+    "target_value": "https://www.iana.org/assignments/media-types/text/csv"
+  },
+  {
+    "name": "application/zip",
+    "target_value": "https://www.iana.org/assignments/media-types/application/zip"
+  }
+]
