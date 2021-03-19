@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Publiek domein",
+    "target_value": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl"
+  },
+  {
+    "name": "Public Domain",
+    "target_value": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl"
+  },
+  {
+    "name": "CC BY",
+    "target_value": "http://creativecommons.org/licenses/by/4.0/deed.nl"
+  }
+]

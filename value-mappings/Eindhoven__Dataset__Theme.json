@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Ruimte en infrastructuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimte_en_infrastructuur"
+  },
+  {
+    "name": "Bestuur",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "Economie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "name": "Onderwijs en wetenschap",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "name": "Openbare orde en veiligheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "name": "Verkeer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)"
+  },
+  {
+    "name": "Natuur en milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "name": "Zorg en gezondheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  },
+  {
+    "name": "Financiën",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "name": "Recht",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuursrecht"
+  },
+  {
+    "name": "Cultuur en recreatie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "name": "Sociale zekerheid",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "name": "Huisvesting",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  }
+]
