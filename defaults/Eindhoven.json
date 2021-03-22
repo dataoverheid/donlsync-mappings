@@ -4,5 +4,7 @@
   "sourceCatalog": "https://data.eindhoven.nl",
   "contact_point_name": "Gemeente Eindhoven",
   "contact_point_webpage": "https://data.eindhoven.nl/pages/contact/",
-  "metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD"
+  "metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
+  "resource.description": "Er is geen beschrijving van deze distributie beschikbaar.",
+  "resource.metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
 }
