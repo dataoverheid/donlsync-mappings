@@ -344,6 +344,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Steenbergen_(gemeente)"
   },
   {
+    "name": "Gemeente Tholen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Tholen_(gemeente)"
+  },
+  {
     "name": "Gemeente Tilburg",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
   },
@@ -516,6 +520,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/wsh"
   },
   {
+    "name": "Hoogheemraadschap van Delfland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hoogheemraadschap_van_Delfland"
+  },
+  {
     "name": "ICTU",
     "target_value": "http://data.overheid.nl/organisatie/ictu"
   },
@@ -625,7 +633,7 @@
   },
   {
     "name": "Liander",
-    "target_value": "http://data.overheid.nl/organisatie/liander"
+    "target_value": "https://data.overheid.nl/organisatie/liander"
   },
   {
     "name": "Logius",
@@ -920,6 +928,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/pdok"
   },
   {
+    "name": "PBL/IBL",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/pbl"
+  },
+  {
     "name": "Planbureau en bibliotheek van zeeland",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
   },
@@ -1021,6 +1033,10 @@
   },
   {
     "name": "Provincie Zeeland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
+  },
+  {
+    "name": "Provincie Zeeland, afdeling Beheer Infrastructuur",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Zeeland_(provincie)"
   },
   {
@@ -1180,6 +1196,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
   },
   {
+    "name": "RIVM/CIB/IIV",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
     "name": "RIVM/DVP",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
   },
@@ -1302,6 +1322,10 @@
   {
     "name": "Sportvisserij Nederland",
     "target_value": "http://data.overheid.nl/organisatie/sportvisserij"
+  },
+  {
+    "name": "Staatsbosbeheer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Staatsbosbeheer"
   },
   {
     "name": "Staf deltacommissaris",

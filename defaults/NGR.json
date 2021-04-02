@@ -1,4 +1,6 @@
 {
+  "description": "Er is geen beschrijving van deze dataset beschikbaar.",
   "datasetStatus": "http://data.overheid.nl/status/beschikbaar",
-  "sourceCatalog": "https://nationaalgeoregister.nl"
+  "sourceCatalog": "https://nationaalgeoregister.nl",
+  "resource.description": "Er is geen beschrijving van deze distributie beschikbaar."
 }

@@ -4,6 +4,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
   },
   {
+    "name": "binnenwater",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
     "name": "biota",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer"
   },
@@ -32,8 +36,16 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
   },
   {
+    "name": "environment;boundaries",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
     "name": "farming",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "name": "geluidswerende voorzieningen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Geluid_(thema)"
   },
   {
     "name": "geoscientificInformation",
@@ -76,6 +88,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
   },
   {
+    "name": "omgeving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
+  },
+  {
     "name": "planningcadastre",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
   },
@@ -101,6 +117,10 @@
   },
   {
     "name": "transportation",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "name": "transpotation",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
   },
   {

@@ -294,5 +294,17 @@
   {
     "name": "ZIP-SHAPE",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+  },
+  {
+    "name": "dataset",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
+  },
+  {
+    "name": "Dataset",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
+  },
+  {
+    "name": "landingpage",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
   }
 ]
