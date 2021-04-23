@@ -4,6 +4,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
   },
   {
+    "name": "zip",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+  },
+  {
     "name": "Agricultural and Aquaculture Facilities GML application schema",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
   },
@@ -265,6 +269,10 @@
   },
   {
     "name": "website",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
+  },
+  {
+    "name": "onLine",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
   },
   {

@@ -1280,6 +1280,10 @@
     "target_value": "http://data.overheid.nl/organisatie/haskoning"
   },
   {
+    "name": "KNMI",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut"
+  },
+  {
     "name": "Royal Netherlands Meteorological Institute (KNMI)",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut"
   },
@@ -1466,5 +1470,9 @@
   {
     "name": "Zorginstituut Nederland",
     "target_value": "http://standaarden.overheid.nl/owms/terms/zin"
+  },
+  {
+    "name": "https://basisregistratieondergrond.nl/l/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
   }
 ]

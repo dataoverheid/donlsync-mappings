@@ -72,7 +72,15 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
   },
   {
+    "name": "inlandwater",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
     "name": "inlandwaters",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "name": "environment;inlandwaters;boundaries",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
   },
   {

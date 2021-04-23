@@ -2,5 +2,9 @@
   "description": "Er is geen beschrijving van deze dataset beschikbaar.",
   "datasetStatus": "http://data.overheid.nl/status/beschikbaar",
   "sourceCatalog": "https://nationaalgeoregister.nl",
-  "resource.description": "Er is geen beschrijving van deze distributie beschikbaar."
+  "metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
+  "language": "http://publications.europa.eu/resource/authority/language/NLD",
+  "resource.description": "Er is geen beschrijving van deze distributie beschikbaar.",
+  "resource.metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
+  "resource.language": "http://publications.europa.eu/resource/authority/language/NLD"
 }
