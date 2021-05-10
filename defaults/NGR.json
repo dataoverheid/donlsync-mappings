@@ -6,5 +6,6 @@
   "language": "http://publications.europa.eu/resource/authority/language/NLD",
   "resource.description": "Er is geen beschrijving van deze distributie beschikbaar.",
   "resource.metadataLanguage": "http://publications.europa.eu/resource/authority/language/NLD",
-  "resource.language": "http://publications.europa.eu/resource/authority/language/NLD"
+  "resource.language": "http://publications.europa.eu/resource/authority/language/NLD",
+  "resource.format": "https://data.overheid.nl/format/unknown"
 }
