@@ -1474,5 +1474,9 @@
   {
     "name": "https://basisregistratieondergrond.nl/l/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "name": "https://www.rijkswaterstaat.nl",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
   }
 ]
