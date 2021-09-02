@@ -144,6 +144,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
   },
   {
+    "name": "arbeidsmarkt mobiliteit",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
     "name": "Arbeidsmarkt mobiliteit",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
   },
@@ -273,6 +277,10 @@
   },
   {
     "name": "Bevolking",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlanderschap_(thema)"
+  },
+  {
+    "name": "bevolking en huishoudens",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Nederlanderschap_(thema)"
   },
   {
@@ -542,6 +550,10 @@
   {
     "name": "Detailhandel",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "name": "dienstenprijzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
   },
   {
     "name": "Dienstenprijzen",
@@ -1260,6 +1272,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
   },
   {
+    "name": "inkomen van huishoudens, personen, 2006",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
     "name": "Inkomen van huishoudens, personen, 2006",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Economie"
   },
@@ -1838,6 +1854,10 @@
   {
     "name": "Personen in huishoudens",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "name": "personen met aow-uitkering",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
   },
   {
     "name": "Personen met AO-uitkering",

@@ -12,6 +12,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
   },
   {
+    "name": "application",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+  },
+  {
     "name": "application/json",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/JSON"
   },
@@ -112,6 +116,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
   },
   {
+    "name": "WWW:DOWNLOAD-1.0-ftp--download",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+  },
+  {
     "name": "Shape, WMS, WFS",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
   },
@@ -164,6 +172,14 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/HDF"
   },
   {
+    "name": "Human Health gml application schema",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
+  },
+  {
+    "name": "Human Health unknown application schema",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+  }, 
+  {
     "name": "INSPIRE Atom",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/ATOM"
   },
@@ -172,8 +188,16 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/JSON"
   },
   {
+    "name": "kml+xml",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/KML"
+  },
+  {
     "name": "Microsoft Access",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/MDB"
+  },
+  {
+    "name": "Natural Risk Zones - Simple Application Schema",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
   },
   {
     "name": "Natural Risk Zones GML application schema",
@@ -192,6 +216,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/KML"
   },
   {
+    "name": "OGC:SOS",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+  },
+  {
     "name": "OGC:WCS",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
   },
@@ -207,6 +235,10 @@
     "name": "OGC:WMTS",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
   },
+{
+    "name": "OGC:WNS",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+  },
   {
     "name": "PDF",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/PDF"
@@ -214,6 +246,10 @@
   {
     "name": "Personal GeoDatabase Feature Class",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
+  },
+  {
+    "name": "png",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/PNG"
   },
   {
     "name": "Production and Industrial Facilities GML application schema",
@@ -300,8 +336,16 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
   },
   {
+    "name": "xml",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/xml"
+  },
+  {
     "name": "ZIP-SHAPE",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+  },
+  {
+    "name": "ZP-shape",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
   },
   {
     "name": "dataset",

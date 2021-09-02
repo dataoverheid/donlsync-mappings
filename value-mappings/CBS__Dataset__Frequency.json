@@ -92,6 +92,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
   {
+    "name": "Viermaalperjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
     "name": "Perhalfjaar",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
