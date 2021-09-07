@@ -13,7 +13,7 @@
   },
   {
     "name": "application",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+    "target_value": "https://data.overheid.nl/format/unknown"
   },
   {
     "name": "application/json",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Human Health unknown application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+    "target_value": "https://data.overheid.nl/format/unknown"
   }, 
   {
     "name": "INSPIRE Atom",
@@ -217,7 +217,7 @@
   },
   {
     "name": "OGC:SOS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+    "target_value": "https://data.overheid.nl/format/unknown"
   },
   {
     "name": "OGC:WCS",
@@ -237,7 +237,7 @@
   },
 {
     "name": "OGC:WNS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+    "target_value": "https://data.overheid.nl/format/unknown"
   },
   {
     "name": "PDF",
@@ -337,7 +337,7 @@
   },
   {
     "name": "xml",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/xml"
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/XML"
   },
   {
     "name": "ZIP-SHAPE",
@@ -345,7 +345,7 @@
   },
   {
     "name": "ZP-shape",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/unknown"
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
   },
   {
     "name": "dataset",
