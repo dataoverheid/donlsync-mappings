@@ -237,7 +237,7 @@
   },
 {
     "name": "OGC:WNS",
-    "target_value": "https://data.overheid.nl/format/unknown"
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
   },
   {
     "name": "PDF",
