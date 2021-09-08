@@ -25,7 +25,7 @@
   },
   {
     "name": "OGC:GML",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
+    "target_value": "https://www.iana.org/assignments/media-types/application/gml+xml"
   },
   {
     "name": "OGC:WCS",
