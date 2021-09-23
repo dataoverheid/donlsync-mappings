@@ -24,6 +24,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
   {
+    "name": "Fourtimesayear",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
     "name": "Twiceyearly",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
@@ -89,6 +93,10 @@
   },
   {
     "name": "Driemaalperjaar",
+    "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
+  },
+  {
+    "name": "Viermaalperjaar",
     "target_value": "http://publications.europa.eu/resource/authority/frequency/OTHER"
   },
   {

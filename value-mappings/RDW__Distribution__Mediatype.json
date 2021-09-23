@@ -16,6 +16,18 @@
     "target_value": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz"
   },
   {
+    "name": "image/png",
+    "target_value": "https://www.iana.org/assignments/media-types/image/png"
+  },
+  {
+    "name": "image/tiff",
+    "target_value": "https://www.iana.org/assignments/media-types/image/tiff"
+  },
+  {
+    "name": "image/TIFF",
+    "target_value": "https://www.iana.org/assignments/media-types/image/tiff"
+  },
+  {
     "name": "application/xml",
     "target_value": "https://www.iana.org/assignments/media-types/application/xml"
   },
@@ -26,5 +38,9 @@
   {
     "name": "text/csv",
     "target_value": "https://www.iana.org/assignments/media-types/text/csv"
+  },
+  {
+    "name": "application/pdf",
+    "target_value": "https://www.iana.org/assignments/media-types/application/pdf"
   }
 ]
