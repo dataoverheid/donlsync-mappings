@@ -54,7 +54,7 @@
   {
     "name": "shape",
     "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
-  }
+  },
   {
     "name": "tiff",
     "target_value": "https://www.iana.org/assignments/media-types/image/tiff"
@@ -82,7 +82,7 @@
   {
     "name": "ZIP-SHAPE",
     "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
-  }
+  },
   {
     "name": "ZP-SHAPE",
     "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
