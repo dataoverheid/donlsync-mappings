@@ -221,7 +221,7 @@
   },
   {
     "name": "OGC:WCS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/WCS_SRVC"
   },
   {
     "name": "OGC:WFS",
