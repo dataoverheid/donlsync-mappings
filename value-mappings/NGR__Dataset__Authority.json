@@ -1478,5 +1478,65 @@
   {
     "name": "https://www.rijkswaterstaat.nl",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "name": "https://basisregistratieondergrond.nl/",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+  },
+  {
+    "name": "https://www.hetwaterschapshuis.nl/",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/wsh"
+  },
+  {
+    "name": "Waterschap Scheldestromen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Waterschap_Scheldestromen"
+  },
+  {
+    "name": "Gemeente Sluis",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "name": "Gemeente Middelburg",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Middelburg_(gemeente)"
+  },
+  {
+    "name": "Gemeente Terneuzen",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Terneuzen"
+  },
+  {
+    "name": "Gemeente Veere",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "name": "Interprovinciaal Overleg/BIJ12",
+    "target_value": "http://data.overheid.nl/organisatie/bij12"
+  },
+  {
+    "name": "Gemeente Hulst",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Hulst_(gemeente)"
+  },
+  {
+    "name": "Kadaster Directie Zuidwest",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "name": "Wageningen Environmental Research (WENR)",
+    "target_value": "http://data.overheid.nl/organisatie/wageningen-ur"
+  },
+  {
+    "name": "Gemeente Noord-Beveland",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Noord-Beveland"
+  },
+  {
+    "name": "Gemeente Reimerswaal",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Reimerswaal_(gemeente)"
+  },
+  {
+    "name": "Gemeente Kapelle",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)"
+  },
+  {
+    "name": "Gemeente Borsele",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)"
   }
 ]
