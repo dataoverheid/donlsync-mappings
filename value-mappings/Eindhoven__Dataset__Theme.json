@@ -50,5 +50,9 @@
   {
     "name": "Huisvesting",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "name": "Migratie en integratie",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
   }
 ]
