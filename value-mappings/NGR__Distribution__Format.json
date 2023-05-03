@@ -362,5 +362,9 @@
   {
     "name": "UKST",
     "target_value": "https://data.overheid.nl/format/unknown"
+  },
+  {
+    "name": "jp2",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/JPEG"
   }
 ]
