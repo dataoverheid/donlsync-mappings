@@ -1,5 +1,3 @@
 # IDE
-/.idea/*
-
-# Directory structure
-!.gitkeep
+/.idea
+/.vscode

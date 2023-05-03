@@ -1,3 +1,3 @@
-# DonlSync mappings
+# DataOverheid / DonlSync mappings
 
-Source: [github.com/dataoverheid/donlsync-mappings](https://github.com/dataoverheid/donlsync-mappings)
+[github.com/dataoverheid/donlsync-mappings](https://github.com/dataoverheid/donlsync-mappings)
