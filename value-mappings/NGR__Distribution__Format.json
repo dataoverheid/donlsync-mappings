@@ -156,6 +156,10 @@
     "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
   },
   {
+    "name": "GPKG",
+    "target_value": "http://publications.europa.eu/resource/authority/file-type/GPKG"
+  },
+  {
     "name": "GRIB",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/TAR"
   },
@@ -366,9 +370,5 @@
   {
     "name": "jp2",
     "target_value": "http://publications.europa.eu/resource/authority/file-type/JPEG"
-  },
-  {
-    "name": "GPKG",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GPKG"
   }
 ]
