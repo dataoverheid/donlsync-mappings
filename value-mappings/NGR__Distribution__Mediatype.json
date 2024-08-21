@@ -90,5 +90,9 @@
   {
     "name": "GPKG",
     "target_value": "https://www.iana.org/assignments/media-types/application/geopackage+sqlite3"
+  },
+  {
+    "name": "OGC:KML",
+    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"
   }
 ]
