@@ -86,5 +86,9 @@
   {
     "name": "ZP-SHAPE",
     "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
+  },
+  {
+    "name": "GPKG",
+    "target_value": "https://www.iana.org/assignments/media-types/application/geopackage+sqlite3"
   }
 ]
