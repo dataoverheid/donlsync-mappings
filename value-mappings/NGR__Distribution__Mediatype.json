@@ -1,98 +1,32 @@
 [
-  {
-    "name": "application/json",
-    "target_value": "https://www.iana.org/assignments/media-types/application/json"
-  },
-  {
-    "name": "CSV",
-    "target_value": "https://www.iana.org/assignments/media-types/text/csv"
-  },
-  {
-    "name": "GML",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "GPKG",
-    "target_value": "https://www.iana.org/assignments/media-types/application/geopackage+sqlite3"
-  },
-  {
-    "name": "INSPIRE WFS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "JSON",
-    "target_value": "https://www.iana.org/assignments/media-types/application/json"
-  },
-  {
-    "name": "KML",
-    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"
-  },
-  {
-    "name": "OGC:GML",
-    "target_value": "https://www.iana.org/assignments/media-types/application/gml+xml"
-  },
-  {
-    "name": "OGC:KML",
-    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"
-  },
-  {
-    "name": "OGC:WCS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "OGC:WFS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "OGC:WMS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "OGC:WNS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "png",
-    "target_value": "https://www.iana.org/assignments/media-types/image/png"
-  },
-  {
-    "name": "SDE Feature Class",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "shape",
-    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
-  },
-  {
-    "name": "tiff",
-    "target_value": "https://www.iana.org/assignments/media-types/image/tiff"
-  },
-  {
-    "name": "TIFF",
-    "target_value": "https://www.iana.org/assignments/media-types/image/tiff"
-  },
-  {
-    "name": "website",
-    "target_value": "https://www.iana.org/assignments/media-types/text/html"
-  },
-  {
-    "name": "WFS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "WMS",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "xml",
-    "target_value": "https://www.iana.org/assignments/media-types/application/xml"
-  },
-  {
-    "name": "ZIP-SHAPE",
-    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
-  },
-  {
-    "name": "ZP-SHAPE",
-    "target_value": "https://www.iana.org/assignments/media-types/application/vnd.geospace"
-  }
+  {"name":"application/json","target_value":"https://www.iana.org/assignments/media-types/application/json"},
+  {"name":"ArcGIS FeatureService","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"ArcGIS featureservice","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"ArcGIS MapService","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"ArcGIS mapservice","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"CSV","target_value":"https://www.iana.org/assignments/media-types/text/csv"},
+  {"name":"GML","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"GPKG","target_value":"https://www.iana.org/assignments/media-types/application/geopackage+sqlite3"},
+  {"name":"INSPIRE Atom","target_value":"https://www.iana.org/assignments/media-types/application/atom+xml"},
+  {"name":"INSPIRE WFS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"JSON","target_value":"https://www.iana.org/assignments/media-types/application/json"},
+  {"name":"KML","target_value":"https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"},
+  {"name":"OGC:GML","target_value":"https://www.iana.org/assignments/media-types/application/gml+xml"},
+  {"name":"OGC:KML","target_value":"https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"},
+  {"name":"OGC:WCS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"OGC:WFS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"OGC:WMS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"OGC:WNS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"OGC:WMTS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"png","target_value":"https://www.iana.org/assignments/media-types/image/png"},
+  {"name":"SDE Feature Class","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"shape","target_value":"https://www.iana.org/assignments/media-types/application/vnd.geospace"},
+  {"name":"tiff","target_value":"https://www.iana.org/assignments/media-types/image/tiff"},
+  {"name":"TIFF","target_value":"https://www.iana.org/assignments/media-types/image/tiff"},
+  {"name":"website","target_value":"https://www.iana.org/assignments/media-types/text/html"},
+  {"name":"WFS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"WMS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"xml","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
+  {"name":"ZIP-SHAPE","target_value":"https://www.iana.org/assignments/media-types/application/vnd.geospace"},
+  {"name":"ZP-SHAPE","target_value":"https://www.iana.org/assignments/media-types/application/vnd.geospace"}
 ]

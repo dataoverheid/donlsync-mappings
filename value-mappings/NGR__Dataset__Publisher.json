@@ -132,6 +132,7 @@
   {"name":"Het Waterschapshuis","target_value":"http://standaarden.overheid.nl/owms/terms/wsh"},
   {"name":"Hoogheemraadschap van Delfland","target_value":"http://standaarden.overheid.nl/owms/terms/Hoogheemraadschap_van_Delfland"},
   {"name":"Hoogheemraadschap De Stichtse Rijnlanden","target_value":"http://standaarden.overheid.nl/owms/terms/Hoogheemraadschap_De_Stichtse_Rijnlanden"},
+  {"name":"https://data.overheid.nl/community/organization/wageningen_ur","target_value":"http://data.overheid.nl/community/organization/wageningen_ur"},
   {"name":"https://www.bij12.nl/","target_value":"http://data.overheid.nl/organisatie/bij12"},
   {"name":"https://identifier.overheid.nl/tooi/id/provincie/pv28","target_value":"http://standaarden.overheid.nl/owms/terms/Zuid-Holland"},
   {"name":"ICTU","target_value":"http://data.overheid.nl/organisatie/ictu"},
