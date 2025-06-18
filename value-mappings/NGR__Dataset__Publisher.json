@@ -28,6 +28,7 @@
   {"name":"CIBG","target_value":"http://standaarden.overheid.nl/owms/terms/cibg"},
   {"name":"College voor de toelating van gewasbeschermingsmiddelen en biociden","target_value":"http://standaarden.overheid.nl/owms/terms/CTGB"},
   {"name":"College voor Zorgverzekeringen","target_value":"http://standaarden.overheid.nl/owms/terms/College_voor_Zorgverzekeringen"},
+  {"name":"Cultural Heritage Agency","target_value":"http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed"},
   {"name":"DataLand","target_value":"http://data.overheid.nl/organisatie/dataland"},
   {"name":"Deltares","target_value":"http://data.overheid.nl/organisatie/deltares"},
   {"name":"Den Haag","target_value":"http://standaarden.overheid.nl/owms/terms/'s-Gravenhage"},

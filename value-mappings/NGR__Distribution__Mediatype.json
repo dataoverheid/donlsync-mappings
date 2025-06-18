@@ -10,6 +10,7 @@
   {"name":"INSPIRE Atom","target_value":"https://www.iana.org/assignments/media-types/application/atom+xml"},
   {"name":"INSPIRE WFS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
   {"name":"JSON","target_value":"https://www.iana.org/assignments/media-types/application/json"},
+  {"name":"geojson","target_value":"https://www.iana.org/assignments/media-types/application/json"},
   {"name":"KML","target_value":"https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"},
   {"name":"OGC:GML","target_value":"https://www.iana.org/assignments/media-types/application/gml+xml"},
   {"name":"OGC:KML","target_value":"https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"},
@@ -28,5 +29,6 @@
   {"name":"WMS","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
   {"name":"xml","target_value":"https://www.iana.org/assignments/media-types/application/xml"},
   {"name":"ZIP-SHAPE","target_value":"https://www.iana.org/assignments/media-types/application/vnd.geospace"},
-  {"name":"ZP-SHAPE","target_value":"https://www.iana.org/assignments/media-types/application/vnd.geospace"}
+  {"name":"ZP-SHAPE","target_value":"https://www.iana.org/assignments/media-types/application/vnd.geospace"},
+  {"name":"zip","target_value":"https://www.iana.org/assignments/media-types/application/zip"}
 ]

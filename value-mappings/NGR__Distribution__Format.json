@@ -1,374 +1,96 @@
 [
-  {
-    "name": "download",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "zip",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "Agricultural and Aquaculture Facilities GML application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "application",
-    "target_value": "https://data.overheid.nl/format/unknown"
-  },
-  {
-    "name": "application/json",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/JSON"
-  },
-  {
-    "name": "ArcGIS mapservice",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/MAP_SRVC"
-  },
-  {
-    "name": "ArcGIS featureservice",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/MAP_PRVW"
-  },
-  {
-    "name": "ArcGIS filegeodatabase",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "Area management / restriction / regulation zones and reporting units GML Application Schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "ASCII (csv/text)",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/CSV"
-  },
-  {
-    "name": "ASCII/text files",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/TXT"
-  },
-  {
-    "name": "CSV",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/CSV"
-  },
-  {
-    "name": "ECW",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ECW"
-  },
-  {
-    "name": "Esri file geodatabase",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "Esri geodatabase",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "ESRI shapefile",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "Feature Class",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "File Geodatabase Feature Class",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "File Geodatabase Feature Class of Shape file",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "File Geodatabase",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "Feature Class",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "SDE Feature Class,",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "File Geodatabase en shape files",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "Protected Sites Simple GML application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "ESRI  shape",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "ESRI shape",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "Area Management/Restriction/Regulation Zones and Reporting Units GML application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "zip file",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "WWW:DOWNLOAD",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "WWW:DOWNLOAD-1.0-ftp--download",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "Shape, WMS, WFS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "File Geodatabase of shape file",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "File Geodatabase of Shape file",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "Filegeodatabase featureclass",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "geodatabase",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "TIFF",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/TIFF"
-  },
-  {
-    "name": "GeoTIFF",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/TIFF"
-  },
-  {
-    "name": "GML",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "GML Application Schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "GPKG",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GPKG"
-  },
-  {
-    "name": "GRIB",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/TAR"
-  },
-  {
-    "name": "Habitats and Biotopes GML application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "hdf",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HDF"
-  },
-  {
-    "name": "HDF5",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HDF"
-  },
-  {
-    "name": "Human Health gml application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "Human Health unknown application schema",
-    "target_value": "https://data.overheid.nl/format/unknown"
-  }, 
-  {
-    "name": "INSPIRE Atom",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ATOM"
-  },
-  {
-    "name": "JSON",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/JSON"
-  },
-  {
-    "name": "kml+xml",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/KML"
-  },
-  {
-    "name": "Microsoft Access",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/MDB"
-  },
-  {
-    "name": "Natural Risk Zones - Simple Application Schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "Natural Risk Zones GML application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "NetCDF",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/NetCDF"
-  },
-  {
-    "name": "OGC:GML",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "OGC:KML",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/KML"
-  },
-  {
-    "name": "OGC:SOS",
-    "target_value": "https://data.overheid.nl/format/unknown"
-  },
-  {
-    "name": "OGC:WCS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WCS_SRVC"
-  },
-  {
-    "name": "OGC:WFS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"
-  },
-  {
-    "name": "OGC:WMS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
-  },
-  {
-    "name": "OGC:WMTS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
-  },
-{
-    "name": "OGC:WNS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
-  },
-  {
-    "name": "PDF",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/PDF"
-  },
-  {
-    "name": "Personal GeoDatabase Feature Class",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "png",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/PNG"
-  },
-  {
-    "name": "Production and Industrial Facilities GML application schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "Protected Sites - Simple GML Application Schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "SDE Feature Class",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "SDE Raster Dataset",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GDB"
-  },
-  {
-    "name": "shape",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "Shape",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "Shape, MapInfo, WMS, WFS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"
-  },
-  {
-    "name": "Shape, WMS, WFS, GML",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"
-  },
-  {
-    "name": "Shapefile",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "shapefile",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/SHP"
-  },
-  {
-    "name": "TIF",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/TIFF"
-  },
-  {
-    "name": "Water Network GML Application Schema",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "Waterkwaliteit",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/GML"
-  },
-  {
-    "name": "website",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
-  },
-  {
-    "name": "onLine",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
-  },
-  {
-    "name": "WFS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"
-  },
-  {
-    "name": "WFS, WMS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"
-  },
-  {
-    "name": "WMS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
-  },
-  {
-    "name": "WMS, GeoTIFF",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/TIFF"
-  },
-  {
-    "name": "WMS, WFS",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"
-  },
-  {
-    "name": "WWW:LINK-1.0-http--link",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
-  },
-  {
-    "name": "xml",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/XML"
-  },
-  {
-    "name": "ZIP-SHAPE",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "ZP-shape",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/ZIP"
-  },
-  {
-    "name": "dataset",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
-  },
-  {
-    "name": "Dataset",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
-  },
-  {
-    "name": "landingpage",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/HTML"
-  },
-  {
-    "name": "UKST",
-    "target_value": "https://data.overheid.nl/format/unknown"
-  },
-  {
-    "name": "jp2",
-    "target_value": "http://publications.europa.eu/resource/authority/file-type/JPEG"
-  }
+  {"name":"download","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"zip","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"Agricultural and Aquaculture Facilities GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"application","target_value":"https://data.overheid.nl/format/unknown"},
+  {"name":"application/json","target_value":"http://publications.europa.eu/resource/authority/file-type/JSON"},
+  {"name":"ArcGIS mapservice","target_value":"http://publications.europa.eu/resource/authority/file-type/MAP_SRVC"},
+  {"name":"ArcGIS featureservice","target_value":"http://publications.europa.eu/resource/authority/file-type/MAP_PRVW"},
+  {"name":"ArcGIS filegeodatabase","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"Area management / restriction / regulation zones and reporting units GML Application Schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"ASCII (csv/text)","target_value":"http://publications.europa.eu/resource/authority/file-type/CSV"},
+  {"name":"ASCII/text files","target_value":"http://publications.europa.eu/resource/authority/file-type/TXT"},
+  {"name":"CSV","target_value":"http://publications.europa.eu/resource/authority/file-type/CSV"},
+  {"name":"ECW","target_value":"http://publications.europa.eu/resource/authority/file-type/ECW"},
+  {"name":"Esri file geodatabase","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"Esri geodatabase","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"ESRI shapefile","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"Feature Class","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"File Geodatabase Feature Class","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"File Geodatabase Feature Class of Shape file","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"File Geodatabase","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"Feature Class","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"SDE Feature Class,","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"File Geodatabase en shape files","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"Protected Sites Simple GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"ESRI  shape","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"ESRI shape","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"Area Management/Restriction/Regulation Zones and Reporting Units GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"zip file","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"WWW:DOWNLOAD","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"WWW:DOWNLOAD-1.0-ftp--download","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"Shape, WMS, WFS","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"File Geodatabase of shape file","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"File Geodatabase of Shape file","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"Filegeodatabase featureclass","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"geodatabase","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"TIFF","target_value":"http://publications.europa.eu/resource/authority/file-type/TIFF"},
+  {"name":"GeoTIFF","target_value":"http://publications.europa.eu/resource/authority/file-type/TIFF"},
+  {"name":"GML","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"GML Application Schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"GPKG","target_value":"http://publications.europa.eu/resource/authority/file-type/GPKG"},
+  {"name":"GRIB","target_value":"http://publications.europa.eu/resource/authority/file-type/TAR"},
+  {"name":"Habitats and Biotopes GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"hdf","target_value":"http://publications.europa.eu/resource/authority/file-type/HDF"},
+  {"name":"HDF5","target_value":"http://publications.europa.eu/resource/authority/file-type/HDF"},
+  {"name":"Human Health gml application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"Human Health unknown application schema","target_value":"https://data.overheid.nl/format/unknown"}, 
+  {"name":"INSPIRE Atom","target_value":"http://publications.europa.eu/resource/authority/file-type/ATOM"},
+  {"name":"JSON","target_value":"http://publications.europa.eu/resource/authority/file-type/JSON"},
+  {"name":"geojson","target_value":"http://publications.europa.eu/resource/authority/file-type/JSON"},
+  {"name":"kml+xml","target_value":"http://publications.europa.eu/resource/authority/file-type/KML"},
+  {"name":"Microsoft Access","target_value":"http://publications.europa.eu/resource/authority/file-type/MDB"},
+  {"name":"Natural Risk Zones - Simple Application Schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"Natural Risk Zones GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"NetCDF","target_value":"http://publications.europa.eu/resource/authority/file-type/NetCDF"},
+  {"name":"OGC:GML","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"OGC:KML","target_value":"http://publications.europa.eu/resource/authority/file-type/KML"},
+  {"name":"OGC:SOS","target_value":"https://data.overheid.nl/format/unknown"},
+  {"name":"OGC:WCS","target_value":"http://publications.europa.eu/resource/authority/file-type/WCS_SRVC"},
+  {"name":"OGC:WFS","target_value":"http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"},
+  {"name":"OGC:WMS","target_value":"http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"},
+  {"name":"OGC:WMTS","target_value":"http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"},
+  {"name":"OGC:WNS","target_value":"http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"},
+  {"name":"PDF","target_value":"http://publications.europa.eu/resource/authority/file-type/PDF"},
+  {"name":"Personal GeoDatabase Feature Class","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"png","target_value":"http://publications.europa.eu/resource/authority/file-type/PNG"},
+  {"name":"Production and Industrial Facilities GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"Protected Sites - Simple GML Application Schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"SDE Feature Class","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"SDE Raster Dataset","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
+  {"name":"shape","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"Shape","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"Shape, MapInfo, WMS, WFS","target_value":"http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"},
+  {"name":"Shape, WMS, WFS, GML","target_value":"http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"},
+  {"name":"Shapefile","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"shapefile","target_value":"http://publications.europa.eu/resource/authority/file-type/SHP"},
+  {"name":"TIF","target_value":"http://publications.europa.eu/resource/authority/file-type/TIFF"},
+  {"name":"Water Network GML Application Schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"Waterkwaliteit","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
+  {"name":"website","target_value":"http://publications.europa.eu/resource/authority/file-type/HTML"},
+  {"name":"onLine","target_value":"http://publications.europa.eu/resource/authority/file-type/HTML"},
+  {"name":"WFS","target_value":"http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"},
+  {"name":"WFS, WMS","target_value":"http://publications.europa.eu/resource/authority/file-type/WFS_SRVC"},
+  {"name":"WMS","target_value":"http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"},
+  {"name":"WMS, GeoTIFF","target_value":"http://publications.europa.eu/resource/authority/file-type/TIFF"},
+  {"name":"WMS, WFS","target_value":"http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"},
+  {"name":"WWW:LINK-1.0-http--link","target_value":"http://publications.europa.eu/resource/authority/file-type/HTML"},
+  {"name":"xml","target_value":"http://publications.europa.eu/resource/authority/file-type/XML"},
+  {"name":"ZIP-SHAPE","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"ZP-shape","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"dataset","target_value":"http://publications.europa.eu/resource/authority/file-type/HTML"},
+  {"name":"Dataset","target_value":"http://publications.europa.eu/resource/authority/file-type/HTML"},
+  {"name":"landingpage","target_value":"http://publications.europa.eu/resource/authority/file-type/HTML"},
+  {"name":"UKST","target_value":"https://data.overheid.nl/format/unknown"},
+  {"name":"jp2","target_value":"http://publications.europa.eu/resource/authority/file-type/JPEG"}
 ]
