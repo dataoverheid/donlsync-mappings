@@ -345,7 +345,7 @@
   {"name":"Steunpunt Monumentenzorg Fryslân","target_value":"http://data.overheid.nl/organisatie/spmzfr"},
   {"name":"Stichting Historisch Boerderij Onderzoek","target_value":"http://data.overheid.nl/organisatie/sthisbo"},
   {"name":"Stichting Landelijk Fietsplatform","target_value":"http://data.overheid.nl/organisatie/stlanfiet"},
-  {"name":"Stichting Mijnaansluiting.nl", "target_value": "https://data.overheid.nl/organisatie/Stichting Mijnaansluiting.nl"},
+  {"name":"https://data.overheid.nl/community/organization/stichting_mijnaansluitingnl", "target_value": "https://data.overheid.nl/organisatie/Stichting Mijnaansluiting.nl"},
   {"name":"Stichting RIONED","target_value":"https://data.overheid.nl/organisatie/rioned"},
   {"name":"Stichting Wandelnet","target_value":"http://data.overheid.nl/organisatie/stwanet"},
   {"name":"Stuurgroep AHN","target_value":"http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"},
