@@ -1,5 +1,9 @@
 [
   {
+    "name": "bevolking en samenleving",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
     "name": "Binnenwateren",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
   },
@@ -104,12 +108,20 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
   },
   {
+    "name": "overheid en publieke sector",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
     "name": "planningcadastre",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
   },
   {
     "name": "planningCadastre",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "name": "regio's en steden",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Ruimte_en_infrastructuur"
   },
   {
     "name": "society",
@@ -142,6 +154,10 @@
   {
     "name": "utilitiescommunication",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "name": "vervoer",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
   },
   {
     "name": "vervoer door de lucht",
