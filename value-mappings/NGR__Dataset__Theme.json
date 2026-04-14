@@ -92,6 +92,10 @@
     "target_value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid"
   },
   {
+    "name": "milieu",
+    "target_value": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
     "name": "oceans",
     "target_value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
   },
