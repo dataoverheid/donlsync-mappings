@@ -1,9 +1,12 @@
 [
   {"name":"download","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
   {"name":"zip","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
+  {"name":"application/zip","target_value":"http://publications.europa.eu/resource/authority/file-type/ZIP"},
   {"name":"Agricultural and Aquaculture Facilities GML application schema","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
   {"name":"application","target_value":"https://data.overheid.nl/format/unknown"},
   {"name":"application/json","target_value":"http://publications.europa.eu/resource/authority/file-type/JSON"},
+  {"name":"application/geo+json","target_value":"http://publications.europa.eu/resource/authority/file-type/JSON"},
+  {"name":"application/gml+xml","target_value":"http://publications.europa.eu/resource/authority/file-type/GML"},
   {"name":"ArcGIS mapservice","target_value":"http://publications.europa.eu/resource/authority/file-type/MAP_SRVC"},
   {"name":"ArcGIS featureservice","target_value":"http://publications.europa.eu/resource/authority/file-type/MAP_PRVW"},
   {"name":"ArcGIS filegeodatabase","target_value":"http://publications.europa.eu/resource/authority/file-type/GDB"},
