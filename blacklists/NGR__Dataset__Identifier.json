@@ -1,6 +1,3 @@
 [
-  {
-    "name": "Oplaadpunten",
-    "blacklisted": "https://nationaalgeoregister.nl/geonetwork?uuid=a928cbee-752d-4de4-8860-8588ce75be87"
-  }
+  {"name":"Oplaadpunten","blacklisted":"https://nationaalgeoregister.nl/geonetwork?uuid=a928cbee-752d-4de4-8860-8588ce75be87"}
 ]

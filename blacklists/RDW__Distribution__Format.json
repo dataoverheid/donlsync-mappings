@@ -1,10 +1,4 @@
 [
-  {
-    "name": "PDF",
-    "blacklisted": "application/pdf"
-  },
-  {
-    "name": "PDF (URI)",
-    "blacklisted": "http://publications.europa.eu/resource/authority/file-type/PDF"
-  }
+  {"name":"PDF","blacklisted":"application/pdf"},
+  {"name":"PDF (URI)","blacklisted":"http://publications.europa.eu/resource/authority/file-type/PDF"}
 ]
